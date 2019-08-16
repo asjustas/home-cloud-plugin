@@ -1,4 +1,4 @@
-package plugin // import "https://github.com/asjustas/home-cloud-plugin"
+package plugin // import "github.com/asjustas/home-cloud-plugin"
 
 type Plugin interface {
 	GetName() string
